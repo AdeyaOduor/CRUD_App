@@ -1,1 +1,2 @@
-# CRUD_App
+# simple-crud
+Crud app using only html,css and javascript.
